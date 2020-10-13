@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_meta" label="meta" language="en" table="u_twinkle">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_meta</element>
+            <help/>
+            <hint/>
+            <label>meta</label>
+            <language>en</language>
+            <name>u_twinkle</name>
+            <plural>metas</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-13 21:08:47</sys_created_on>
+            <sys_id>5aeaf4de9137d010f8779d586843b288</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>meta</sys_name>
+            <sys_package display_value="testglobal1" source="a33438d29137d010f8779d586843b212">a33438d29137d010f8779d586843b212</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="testglobal1">a33438d29137d010f8779d586843b212</sys_scope>
+            <sys_update_name>sys_documentation_u_twinkle_u_meta_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-13 21:08:47</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
