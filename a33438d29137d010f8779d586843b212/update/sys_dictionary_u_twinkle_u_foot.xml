@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="u_shabana" table="u_twinkle">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="u_foot" table="u_twinkle">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -14,7 +14,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>Shabana</column_label>
+        <column_label>foot</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -27,7 +27,7 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>u_shabana</element>
+        <element>u_foot</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
@@ -52,16 +52,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-10-13 20:42:04</sys_created_on>
-        <sys_id>c8b438569137d010f8779d586843b286</sys_id>
+        <sys_created_on>2020-10-13 20:50:46</sys_created_on>
+        <sys_id>1cb63c1a9137d010f8779d586843b2d9</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Shabana</sys_name>
+        <sys_name>foot</sys_name>
         <sys_package display_value="testglobal1" source="a33438d29137d010f8779d586843b212">a33438d29137d010f8779d586843b212</sys_package>
         <sys_policy/>
         <sys_scope display_value="testglobal1">a33438d29137d010f8779d586843b212</sys_scope>
-        <sys_update_name>sys_dictionary_u_twinkle_u_shabana</sys_update_name>
+        <sys_update_name>sys_dictionary_u_twinkle_u_foot</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-10-13 20:42:04</sys_updated_on>
+        <sys_updated_on>2020-10-13 20:50:46</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
